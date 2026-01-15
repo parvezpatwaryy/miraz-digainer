@@ -29,3 +29,40 @@
    
       
 }
+
+
+#banner{
+    display: flex;
+    max-width:1110;
+    align-items: center;
+}
+
+.text-banner{
+    width:582px;
+    height:270px;
+    margin-left:120px;
+    
+}
+
+.text-banne h2{
+    font-size:52px;
+    font-weight:700;
+    color: #3A3A3A;
+}
+
+.text-banne p{
+    font-size:16px ;
+    color: #3A3A3A;
+}
+
+.button{
+    background-color: #E02C6D;
+    color: #FFFFFF;
+    font-size:1rem;
+    font-weight:700;
+    width:196px;
+    height:44px;
+    border-radius:2.56rem;
+    border:none;
+}
+    
